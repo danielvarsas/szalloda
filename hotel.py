@@ -1,7 +1,5 @@
 from abc import ABC
 from datetime import datetime, timedelta
-import random
-
 
 class Szoba(ABC):
     def __init__(self, szobaszam, ar):
@@ -12,7 +10,7 @@ class EgyagyasSzoba(Szoba):
     def __init__(self, szobaszam, ar):
         super().__init__(szobaszam, ar)
         self.agyak_szama = 1
-        self.letszam = 1
+        self.letszam = 13
 
 class KetagyasSzoba(Szoba):
     def __init__(self, szobaszam, ar):

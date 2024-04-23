@@ -1,7 +1,7 @@
 # Gábor Dénes Hotel Szobafoglalási Rendszer!
 Egy egyszerű, mégis hatékony eszköz a szálloda szobafoglalásainak kezelésére. 
 
-Funkciók:
+**Funkciók:**
 
 Szobafoglalás: Válassza ki a kívánt szobatípust és a dátumot, és foglalja le álmai szobáját.
 

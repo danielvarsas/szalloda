@@ -3,9 +3,7 @@ Egy egyszerű, mégis hatékony eszköz a szálloda szobafoglalásainak kezelés
 
 Funkciók:
 
-Szobafoglalás: 
-
-Válassza ki a kívánt szobatípust és a dátumot, és foglalja le álmai szobáját.
+Szobafoglalás: Válassza ki a kívánt szobatípust és a dátumot, és foglalja le álmai szobáját.
 
 Foglalás lemondása: Ha tervei megváltoznak, egyszerűen mondhatja le a foglalását.
 
